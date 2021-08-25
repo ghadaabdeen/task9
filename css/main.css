@@ -1,0 +1,46 @@
+.about_div1
+{
+    width:50%;
+     height: 50px;
+    float: right;
+    margin-top:17px;
+    margin-left: 50px;
+}
+body
+
+{
+    margin: 0;
+    padding: 0;
+}
+a
+{
+  text-decoration: none;
+  margin: 0 10px;
+}
+button
+{
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(128, 67, 185);
+  border-radius: 3px;
+}
+button:hover
+{
+    background-color: rgb(15, 49, 173);
+
+}
+/**************************************************************************/
+.about_div2
+{
+    width: 20%;
+    height: 90px;
+    background-color: rgb(92, 57, 92);
+}
+img{
+    border: 0;
+    width: 150px;
+    margin-top: 15px;
+    margin-left: 40px;
+}
